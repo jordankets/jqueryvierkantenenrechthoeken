@@ -9,5 +9,5 @@ $(".rechthoek").dblclick(function(){
 $(this).removeClass("w3-yellow w3-green").addClass("w3-purple")
 
        // in het geval dat we bedoelen: alle rechthoeken
-	$(".rechthoek").removeClass("w3-yellow w3-green").addClass("w3-purple")
+	//$(".rechthoek").removeClass("w3-yellow w3-green").addClass("w3-purple")
 });
